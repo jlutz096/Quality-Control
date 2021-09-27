@@ -7,7 +7,7 @@ The main idea behind the conception of this project is to introduce more efficie
 <h2>Abstract</h2>
 
   The main idea behind this project is automating the quality control process in a manufacturing environment. The title of the project is Quality Control in Manufacturing (QCiM). The goal QCiM is to accomplish quality control of various products produced in manufacturing. The software runs off a camera feed that objectively 'grades' product as it passed under the video feed. After capture a percentage is returned and the system makes a judgement based upon the result. If passing, the product is allowed to continue down the production line, otherwise it is sent for refurbishment or to be destroyed.
-  This product integrates a Computer Vision framework known as OpenCV. This project will be developed in Python. More information will be available in following sections.
+  This product integrates a Computer Vision framework known as OpenCV. This project will be developed in Python, in an Jupyter Notebook environment. More information will be available in following sections.
 
 
 Intro
