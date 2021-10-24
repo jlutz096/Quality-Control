@@ -10,7 +10,8 @@ The main idea behind the conception of this project is to introduce more efficie
   This product integrates a Computer Vision framework known as OpenCV. This project will be developed in Python, in an Jupyter Notebook environment. More information will be available in following sections.
 
 
-Intro
+<h2>Intro</h2>
+
 Quality Control in Manufacturing (QCiM) is an software application that takes in images from a theoretical production line. Once it has an image, it compares it against a template image. A result is returned. Grading critera differs from product to product but the overall goal is Quality Control.
 
 Basic Concept
