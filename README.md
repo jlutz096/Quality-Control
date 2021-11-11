@@ -4,6 +4,13 @@ Main repository for CS440 project "Image Quality Control in Manufacturing"
 The main idea behind the conception of this project is to introduce more efficient ways in which Quality Control can be used in a manufacturing setting. The proposed idea is if we can create a system that can allow for faster processing of products in a manufacturing setting, then the more efficient the product can be made and delivered to the customer. 
 
 
+<h2>Install</h2>
+
+  There are some prerequiste libraries, mostly OpenCV. OpenCv is a library of programming functions mainly aimed at real-time computer vision. This library if installed through a Jupyter Notebook can be installed with pip. 
+  
+  | pip install opencv-python |
+
+
 <h2>Abstract</h2>
 
   The main idea behind this project is automating the quality control process in a manufacturing environment. The title of the project is Quality Control in Manufacturing (QCiM). The goal QCiM is to accomplish quality control of various products produced in manufacturing. The software runs off a camera feed that objectively 'grades' product as it passed under the video feed. After capture a percentage is returned and the system makes a judgement based upon the result. If passing, the product is allowed to continue down the production line, otherwise it is sent for refurbishment or to be destroyed.
