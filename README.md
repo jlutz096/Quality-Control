@@ -9,6 +9,7 @@ The main idea behind the conception of this project is to introduce more efficie
   There are some prerequiste libraries, mostly OpenCV. OpenCv is a library of programming functions mainly aimed at real-time computer vision. This library if installed through a Jupyter Notebook can be installed with pip. 
   
   | pip install opencv-python |
+  |--|
 
 
 <h2>Abstract</h2>
