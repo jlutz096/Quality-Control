@@ -10,6 +10,17 @@ The main idea behind the conception of this project is to introduce more efficie
   
   | pip install opencv-python |
   |--|
+  
+  Likewise, the user interface is built using tkinter. Tkinter is a standard Python Interface. Similarily, it can be installed through a Jupyter Notebook by using:
+  
+  |pip install tk|
+  |--|
+  
+  The remaining functionality is provided through standard Python installment. 
+  
+  NOTE: If you plan to run the program through VSCode or a different IDE, you will have to pip install through the terminal, or by personal preference. 
+  
+  For demonstration purposes it is easier to use a Jupyter Notebook to run this application in union with the handbook/tutorial provided below.
 
 
 <h2>Abstract</h2>
