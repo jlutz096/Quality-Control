@@ -1,6 +1,8 @@
 # Quality Control in Manufacturing (QCiM)
 Main repository for CS440 project "Image Quality Control in Manufacturing" 
 
+Program Designed and Built on Linux Ubunutu 21.10
+
 Developers/Researchers include: Lee Lee, Christian Wills, Justin Lutz, Mark Owoseni.
 
 Former Developer: Ashish Lamichhane 
