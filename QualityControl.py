@@ -4,13 +4,13 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 #get template and compairison image
-img = cv2.imread('/home/anx/440/images/Hexnut.jpg', 0)
+img = cv2.imread('/home/anx/440/images/duoHex.jpg', 0)
 #check if image is opened
 assert not isinstance(img,type(None)), 'image not found'
 
 #import second image
 img2 = img.copy()
-template = cv2.imread('/home/anx/440/images/duoHex.jpg',0)
+template = cv2.imread('/home/anx/440/images/Hexnut.jpg',0)
 w, h = template.shape[::-1]
 
 #create method
@@ -40,3 +40,5 @@ for meth in methods:
     plt.suptitle(meth)
 
     plt.show()
+
+
