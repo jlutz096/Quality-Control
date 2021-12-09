@@ -41,8 +41,8 @@ Quality Control in Manufacturing (QCiM) is an software application that takes in
 
 Basic Concept
 
+Template image is loaded into the program and subsequent images selected for matching are made. Once the match is made a percentage is displayed, similarily a rectangle is drawn around the highest match. The image is converted into grey scale, for edge detection which makes it easier for matches to be found. 
+
 Implementation
 
-Results
-
-Discussion.
+Select template, select image to be matched. Compare image and get result relating to highest percentage of match.
