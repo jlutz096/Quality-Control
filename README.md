@@ -39,10 +39,10 @@ The main idea behind the conception of this project is to introduce more efficie
 
 Quality Control in Manufacturing (QCiM) is an software application that takes in images from a theoretical production line. Once it has an image, it compares it against a template image. A result is returned. Grading critera differs from product to product but the overall goal is Quality Control. Results are of a higher readability when illustrated with Jupyter Notebook. The tutorial section will setforth the steps it takes to create an accurate working application.
 
-Basic Concept
+<h2>Basic Concept</h2>
 
 Template image is loaded into the program and subsequent images selected for matching are made. Once the match is made a percentage is displayed, similarily a rectangle is drawn around the highest match. The image is converted into grey scale, for edge detection which makes it easier for matches to be found. 
 
-Implementation
+<h2>Implementation</h2>
 
 Select template, select image to be matched. Compare image and get result relating to highest percentage of match.
